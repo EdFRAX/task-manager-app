@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    color: white !important;
+    background-image: linear-gradient(-300deg, #ff0000 -50%, #4c00ff 100%);
+    background-size: cover !important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.form-control, ::placeholder {
+    background: transparent !important;
+    color: white !important;
+    border-color: white !important;
+    box-shadow: none !important;
+}
+
+button {
+    color: white !important;
+    border-color: white !important;
+}
